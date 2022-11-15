@@ -13,4 +13,6 @@ https://hal.archives-ouvertes.fr/hal-03698443/
 https://dl.acm.org/doi/abs/10.1145/3557991.3567795
 
 
-To run the code, you need first to install OpenTripPlanner. You can follow this tutorial: https://docs.opentripplanner.org/en/latest/Basic-Tutorial/
+To run the code, you need first to install OpenTripPlanner. You can follow this tutorial: https://docs.opentripplanner.org/en/latest/Basic-Tutorial/.
+
+You may need to install some Python libraries. You can try to run the code and install the missing libraries.
