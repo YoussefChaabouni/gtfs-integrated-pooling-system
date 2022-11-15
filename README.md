@@ -11,3 +11,6 @@ https://hal.archives-ouvertes.fr/hal-03698443/
 
 2. Chaabouni, Y., Araldo, A., de Palma, A., & Arib, S. (2022, November). PoolLines: modeling carpooling as ephemeral lines in GTFS for effective integration with public transit. In Proceedings of the 15th ACM SIGSPATIAL International Workshop on Computational Transportation Science (pp. 1-4).
 https://dl.acm.org/doi/abs/10.1145/3557991.3567795
+
+
+To run the code, you need first to install OpenTripPlanner. You can follow this tutorial: https://docs.opentripplanner.org/en/latest/Basic-Tutorial/
